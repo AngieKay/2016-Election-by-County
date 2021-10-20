@@ -5,11 +5,11 @@ I am building a model to predict presidential elections at the county level.
 ## Business Understanding
 I am trying to determine the key predictors that lead a county to go either blue or red. 
 ## Data & Methodology
-2016 and 2012 election results:  https://data.world/garyhoov/2016-pres-election-by-county
-Alaska 2016 and 2012 election results:  https://www.thecinyc.com/
-Additional Alaska information:  https://en.wikipedia.org/wiki/List_of_boroughs_and_census_areas_in_Alaska
-Race:  https://data.census.gov/cedsci/table?q=county%20population&tid=DECENNIALPL2020.P1
-Income:  https://data.census.gov/cedsci/all?q=county%20population
+2016 and 2012 election results:  https://data.world/garyhoov/2016-pres-election-by-county  
+Alaska 2016 and 2012 election results:  https://www.thecinyc.com/  
+Additional Alaska information:  https://en.wikipedia.org/wiki/List_of_boroughs_and_census_areas_in_Alaska  
+Race:  https://data.census.gov/cedsci/table?q=county%20population&tid=DECENNIALPL2020.P1  
+Income:  https://data.census.gov/cedsci/all?q=county%20population  
 ## EDA
 ![image](https://user-images.githubusercontent.com/20134289/138177908-365b8aac-79d8-48e8-8000-dd5cfbefe97c.png)
 
