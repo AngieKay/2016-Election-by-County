@@ -1,1 +1,13 @@
-# 2016-Election-by-County
+# Presidential-Election-by-County
+
+## Overview
+
+## Business Understanding
+
+## Data & Methodology
+
+## EDA
+
+## Models
+
+## Final Model
