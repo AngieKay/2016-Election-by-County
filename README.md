@@ -36,7 +36,8 @@ Donald Trump won 84.5% of counties in 2016 and Hillary Clinton won 15.5%. I've i
 ![image](https://user-images.githubusercontent.com/20134289/139122125-eab1a00b-cec6-4579-9fb2-908c97775d0b.png)
 ![image](https://user-images.githubusercontent.com/20134289/139120532-4287d475-2969-48c7-8469-ae62af79c145.png)
 ### Previous Election
-**Counties that swung between 2012 and 2016**
+**Counties that swung between 2012 and 2016**  
+Of the 3141 counties in the US, 253 of them swung in 2016. 92% of those 253 swung Republican.  
 ![image](https://user-images.githubusercontent.com/20134289/139120665-5ff23504-58f2-43f6-988b-91dc9a7bffc4.png)
 Areas that would be interesting to investigate:  
 - Maine
