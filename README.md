@@ -1,4 +1,5 @@
 # Presidential Election Analysis by County
+![image](https://user-images.githubusercontent.com/20134289/139316398-7788e0d1-aadc-480f-a372-f0f21277efe4.png)
 
 ## Overview
 I am building a model to predict presidential elections at the county level. The results and analysis from this can be used by campaigns for outreach and funding allocation. The model is being trained on the 2016 election results.  
